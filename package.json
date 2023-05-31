@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A web application to display camping grounds",
   "main": "app.js",
-  "scripts": {
+  "scripts": {   
     "test": "echo \"Error: no test specified\" && exit 1"
+     "start" : "nodemon index.js"
   },
   "author": "Sep Batch 2 Group 3 Coding Ninjas Team",
   "license": "ISC",
